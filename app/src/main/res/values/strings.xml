@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="product_title">Название: %s</string>
+    <string name="product_desc">Описание: %s</string>
+    <string name="product_category">Категория: %s</string>
+    <string name="product_price">Цена: %s</string>
+    <string name="product_rating">Рейтинг: %s</string>
+
+    <string name="unknown_host_error">Не удалось подключиться к серверу</string>
+    <string name="generic_error">Что-то пошло не так</string>
+    <string name="not_found_error">Не удалось загрузить продукт</string>
+
+</resources>
